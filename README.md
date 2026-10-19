@@ -1,8 +1,17 @@
 # PDF_Password_Remover_Flask
 
-The backend is built using Flask.
+The Flask backend powers the separate developer API for
+[Unclasp PDF tools](https://pdf-fe-kappa.vercel.app/). The public PDF tools are
+available at [pdf-fe-kappa.vercel.app](https://pdf-fe-kappa.vercel.app/); API
+usage and server-side processing details are documented on the
+[API documentation page](https://pdf-fe-kappa.vercel.app/docs).
 
-### Author : Sai Annam
+### Author
+
+[Sai Krishna Chaitanya](https://pdf-fe-kappa.vercel.app/about) ·
+[Personal portfolio](https://mraskchay.vercel.app/) ·
+[GitHub](https://github.com/mr-ask-chay) ·
+[Linktree](https://linktr.ee/MR_ASK_Chay)
 
 ### Live Testing
 Access the app at https://flask-pdf-pr-main.onrender.com/
@@ -11,7 +20,7 @@ Access the app at https://flask-pdf-pr-main.onrender.com/
 
 ### Installation For runing the project in local machine.
 
-1. Clone the repository: https://github.com/otaku0304/PDF_Password_Remover_Flask.git
+1. Clone the repository: https://github.com/mr-ask-chay/PDF_Password_Remover_Flask.git
 2. Install dependencies: pip install -r requirements.txt
 3. Start the Flask server: flask run
 4. Access the application at http://127.0.0.1:5000
@@ -40,4 +49,3 @@ The flask projected was deployed and hosted on Render
 ## Contact
 
 If you have any questions or suggestions, please feel free to [contact me](https://linktr.ee/MR_ASK_Chay).
-
